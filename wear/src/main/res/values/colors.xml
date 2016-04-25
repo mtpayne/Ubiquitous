@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ambient_background">#000000</color>
+    <color name="ambient_time_text">#ffffff</color>
+
+    <color name="interactive_background">#03A9F4</color>
+    <color name="interactive_date_text">#B3E5FC</color>
+    <color name="interactive_time_text">#ffffff</color>
+    <color name="interactive_max_temp_text">#ffffff</color>
+    <color name="interactive_min_temp_text">#B3E5FC</color>
+
+</resources>
